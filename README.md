@@ -264,7 +264,7 @@ class SathwikaRupireddy:
 
 | Degree | Institution | Year |
 |--------|------------|------|
-| MS Data Analytics (GPA 3.7) | Webster University, St. Louis | Dec 2025 |
+| MS Data Analytics (GPA 3.6) | Webster University, St. Louis | Dec 2025 |
 | BTech Electrical & Electronics | Kakatiya University, India | 2023 |
 
 </td>
