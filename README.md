@@ -280,6 +280,7 @@ class SathwikaRupireddy:
 | Power BI Data Analytics & DAX | Microsoft |
 | Tableau Data Visualization | Tableau |
 | SQL for Data Analysis | Codecademy |
+| Data Scientist; Analysis Professional Certificate | Codecademy |
 
 </td>
 </tr>
