@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sathwika%20Rupireddy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Data%20Engineer%20%7C%20Building%20the%20layer%20that%20makes%20AI%20work&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sathwika%20Rupireddy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Data%20Engineer%20%7C%20Building%20the%20layer%20that%20makes%20AI%20work&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=7C6EF5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Databricks+%7C+Apache+Spark+%7C+Kafka+%7C+dbt+%7C+Snowflake;50M%2B+Records%2FDay+%E2%80%94+12+Production+AI+Initiatives;AWS+%7C+Azure+%7C+GCP+%7C+Delta+Lake+%7C+MLflow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=7C6EF5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Databricks+%7C+Apache+Spark+%7C+Kafka+%7C+dbt+%7C+Snowflake;50M%2B+Records%2FDay+%E2%80%94+12+Production+AI+Initiatives;Claude+API+%7C+LangChain+%7C+RAG+Pipelines+%7C+MLflow)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- STATUS BADGES -->
-[![Open to Work](https://img.shields.io/badge/🟢_Open_to_Roles-Data_Engineer_%7C_AI_Engineer-1db97e?style=for-the-badge&labelColor=0a0a0f)](mailto:sathwikarupireddy7@gmail.com)
+[![Open to Work](https://img.shields.io/badge/🟢_Open_to_Roles-AI_%2F_ML_Data_Engineer-1db97e?style=for-the-badge&labelColor=0a0a0f)](mailto:sathwikarupireddy7@gmail.com)
 [![Location](https://img.shields.io/badge/📍_St._Louis%2C_MO-Open_to_Relocate-7c6ef5?style=for-the-badge&labelColor=0a0a0f)](https://linkedin.com/in/sathwika-r-0ab205325)
 
 <br/>
@@ -29,22 +29,24 @@
 ```python
 class SathwikaRupireddy:
     
-    role       = "AI Data Engineer"
+    role       = "AI / ML Data Engineer"
     company    = "CACI International"
     location   = "St. Louis, MO 🇺🇸"
-    education  = "MS Data Analytics — Webster University (GPA 3.7)"
+    education  = "MS Data Analytics — Webster University (GPA 3.56)"
     experience = "4+ years"
     
     currently_building = [
         "Enterprise lakehouse architecture @ CACI",
         "50M+ records/day across 12 AI initiatives",
         "RAG pipelines with LangChain + Weaviate",
+        "PDF → Structured JSON pipeline via Claude API + Pydantic",
         "Career Genie — local LLM job search co-pilot"
     ]
     
     fun_fact = """
-        Built an AI job search tool (Career Genie) that runs 
-        Llama 3 locally via Ollama — zero API cost, full privacy.
+        Built a production PDF-to-JSON extraction pipeline using the 
+        Claude API + Pydantic — turns any unstructured document into 
+        clean, schema-validated JSON in seconds.
     """
     
     def say_hello(self):
@@ -100,12 +102,15 @@ class SathwikaRupireddy:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-### AI / MLOps
+### AI / ML / LLMOps
+![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -169,6 +174,27 @@ class SathwikaRupireddy:
 </td>
 <td width="50%" valign="top">
 
+### 🧾 PDF → Structured JSON Pipeline
+> **LLM-powered document intelligence pipeline** — extracts unstructured PDF content, sends it to the Claude API, and returns schema-validated JSON via Pydantic. Built for production AI data ingestion workflows.
+
+**How it works:**
+- PyMuPDF text extraction + intelligent chunking
+- Claude API (`claude-sonnet-4-6`) for structured extraction
+- Pydantic v2 schema validation — zero malformed records
+- Optional CSV export + batch processing support
+
+![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[View Repo →](https://github.com/Sathwika0526/pdf-to-structured-json)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 📊 Retail Sales Analytics Platform
 > **End-to-end lakehouse pipeline** — dbt + Snowflake dimensional models powering real-time KPI dashboards. 60% reduction in manual reporting effort.
 
@@ -185,8 +211,6 @@ class SathwikaRupireddy:
 [View Repo →](https://github.com/Sathwika0526)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💻 Laptop Price Intelligence Pipeline
@@ -205,6 +229,8 @@ class SathwikaRupireddy:
 [View Repo →](https://github.com/Sathwika0526)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏗️ CACI Enterprise AI Data Platform
@@ -220,6 +246,9 @@ class SathwikaRupireddy:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
+</td>
+<td width="50%" valign="top">
+<!-- intentionally empty for layout balance -->
 </td>
 </tr>
 </table>
@@ -264,7 +293,7 @@ class SathwikaRupireddy:
 
 | Degree | Institution | Year |
 |--------|------------|------|
-| MS Data Analytics (GPA 3.6) | Webster University, St. Louis | Dec 2025 |
+| MS Data Analytics (GPA 3.56) | Webster University, St. Louis | Dec 2025 |
 | BTech Electrical & Electronics | Kakatiya University, India | 2023 |
 
 </td>
@@ -309,11 +338,11 @@ class SathwikaRupireddy:
 
 ```yaml
 target_roles:
-  - Data Engineer
-  - Senior Data Engineer  
-  - AI Data Engineer
+  - AI / ML Data Engineer
+  - Senior Data Engineer
   - ML Engineer
   - Analytics Engineer
+  - LLMOps / AI Infrastructure Engineer
 
 open_to:
   - Remote ✅
@@ -323,10 +352,11 @@ open_to:
 visa_status: F-1 OPT (valid ~Feb 2027) — H-1B sponsorship needed after
 
 strengths:
-  - End-to-end pipeline design at enterprise scale
-  - AI/ML data infrastructure (not just ETL)
+  - End-to-end AI/ML data pipeline design at enterprise scale
+  - LLM integration (Claude API, OpenAI, LangChain, RAG)
   - Real-time streaming + batch hybrid architectures
   - MLOps, feature stores, model training pipelines
+  - Unstructured → structured data extraction with LLMs + Pydantic
   - Defense / compliance-grade data governance
 ```
 
@@ -336,7 +366,7 @@ strengths:
 
 ### 💬 Ask me about
 `PySpark` `Apache Kafka` `dbt` `Snowflake` `Delta Lake` `Databricks`
-`Medallion Architecture` `RAG Pipelines` `MLflow` `Terraform` `AWS`
+`Claude API` `LangChain` `RAG Pipelines` `MLflow` `Pydantic` `Terraform` `AWS`
 
 ---
 
