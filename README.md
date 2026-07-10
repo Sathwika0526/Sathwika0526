@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sathwika%20Rupireddy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Healthcare%20Data%20Analyst%20%7C%20Turning%20Claims%20%26%20Clinical%20Data%20Into%20Action&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Sathwika%20Rupireddy&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Healthcare%20Data%20Analyst%20%7C%20Turning%20Claims%20%26%20Clinical%20Data%20Into%20Action&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=1D9BF0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=SQL+%7C+Python+%7C+Tableau+%7C+Power+BI+%7C+Snowflake;Claims+%7C+Eligibility+%7C+Provider+%7C+EHR+Data+Analytics;HEDIS+%2F+CMS+Star+Ratings+%7C+Population+Health+%7C+HIPAA;Databricks+%7C+Spark+%7C+Kafka+%7C+dbt+%7C+RAG+Pipelines)](https://git.io/typing-svg)
@@ -17,7 +17,6 @@
 <!-- SOCIAL LINKS -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwika-r-0ab205325)
 [![Email](https://img.shields.io/badge/Email-sathwikarupireddy513%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathwikarupireddy513@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sathwika0526.github.io-1D9BF0?style=for-the-badge&logo=github-pages&logoColor=white)](https://sathwika0526.github.io/Sathwika0526/)
 
 </div>
 
@@ -31,7 +30,7 @@ class SathwikaRupireddy:
     role       = "Healthcare Data Analyst"
     company    = "Cigna Healthcare"
     location   = "St. Louis, MO 🇺🇸"
-    education  = "MS Data Analytics — Webster University (GPA in progress, Dec 2025)"
+    education  = "MS Data Analytics — Webster University (GPA in progress, exp. Dec 2025)"
     experience = "4+ years"
 
     focus_areas = [
@@ -164,7 +163,6 @@ class SathwikaRupireddy:
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Claims](https://img.shields.io/badge/Claims%20Analytics-0091AE?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 </td>
 <td width="50%" valign="top">
@@ -179,7 +177,6 @@ class SathwikaRupireddy:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 </td>
 </tr>
@@ -351,7 +348,7 @@ strengths:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer&amp;animation=twinkling" width="100%"/>
 
 *"Turning claims and clinical data into insights that improve care."*
 
