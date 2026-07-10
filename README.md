@@ -1,37 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="./assets/header-banner.svg" width="100%"/>
-<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#f0a050"/>
-      <stop offset="50%" stop-color="#d9698f"/>
-      <stop offset="100%" stop-color="#1D9BF0"/>
-    </linearGradient>
-    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.0"/>
-    </linearGradient>
-  </defs>
-
-  <!-- background -->
-  <rect width="1200" height="220" fill="url(#bgGrad)"/>
-
-  <!-- decorative wave shapes -->
-  <path d="M0,180 C250,220 350,140 600,170 C850,200 950,140 1200,175 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.08"/>
-  <path d="M0,195 C250,225 400,165 650,190 C900,215 1000,165 1200,195 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.12"/>
-
-  <!-- main text -->
-  <text x="600" y="105" font-family="'JetBrains Mono', 'Segoe UI', Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="1">
-    Sathwika Rupireddy
-  </text>
-
-  <!-- subtitle -->
-  <text x="600" y="150" font-family="'JetBrains Mono', 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="500" fill="#ffffff" fill-opacity="0.92" text-anchor="middle">
-    Healthcare Data Analyst · Turning Claims &amp; Clinical Data Into Action
-  </text>
-</svg>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIyMjAiIHZpZXdCb3g9IjAgMCAxMjAwIDIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmdHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2YwYTA1MCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Q5Njk4ZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMxRDlCRjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9IndhdmVHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMC4xMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMC4wIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KCiAgPCEtLSBiYWNrZ3JvdW5kIC0tPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjIyMCIgZmlsbD0idXJsKCNiZ0dyYWQpIi8+CgogIDwhLS0gZGVjb3JhdGl2ZSB3YXZlIHNoYXBlcyAtLT4KICA8cGF0aCBkPSJNMCwxODAgQzI1MCwyMjAgMzUwLDE0MCA2MDAsMTcwIEM4NTAsMjAwIDk1MCwxNDAgMTIwMCwxNzUgTDEyMDAsMjIwIEwwLDIyMCBaIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjA4Ii8+CiAgPHBhdGggZD0iTTAsMTk1IEMyNTAsMjI1IDQwMCwxNjUgNjUwLDE5MCBDOTAwLDIxNSAxMDAwLDE2NSAxMjAwLDE5NSBMMTIwMCwyMjAgTDAsMjIwIFoiIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuMTIiLz4KCiAgPCEtLSBtYWluIHRleHQgLS0+CiAgPHRleHQgeD0iNjAwIiB5PSIxMDUiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCAnU2Vnb2UgVUknLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI1OCIgZm9udC13ZWlnaHQ9IjgwMCIgZmlsbD0iI2ZmZmZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjEiPgogICAgU2F0aHdpa2EgUnVwaXJlZGR5CiAgPC90ZXh0PgoKICA8IS0tIHN1YnRpdGxlIC0tPgogIDx0ZXh0IHg9IjYwMCIgeT0iMTUwIiBmb250LWZhbWlseT0iJ0pldEJyYWlucyBNb25vJywgJ1NlZ29lIFVJJywgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjIiIGZvbnQtd2VpZ2h0PSI1MDAiIGZpbGw9IiNmZmZmZmYiIGZpbGwtb3BhY2l0eT0iMC45MiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+CiAgICBIZWFsdGhjYXJlIERhdGEgQW5hbHlzdCDCtyBUdXJuaW5nIENsYWltcyAmYW1wOyBDbGluaWNhbCBEYXRhIEludG8gQWN0aW9uCiAgPC90ZXh0Pgo8L3N2Zz4K" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=1D9BF0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=SQL+%7C+Python+%7C+Tableau+%7C+Power+BI+%7C+Snowflake;Claims+%7C+Eligibility+%7C+Provider+%7C+EHR+Data+Analytics;HEDIS+%2F+CMS+Star+Ratings+%7C+Population+Health+%7C+HIPAA;Databricks+%7C+Spark+%7C+Kafka+%7C+dbt+%7C+RAG+Pipelines)](https://git.io/typing-svg)
