@@ -1,7 +1,12 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Sathwika%20Rupireddy&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Healthcare%20Data%20Analyst%20%7C%20Turning%20Claims%20%26%20Clinical%20Data%20Into%20Action&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<!-- HEADER -->
+<h1 align="center">
+  <span style="background: linear-gradient(135deg, #f0a050, #c2528f); -webkit-background-clip: text;">
+    Sathwika Rupireddy
+  </span>
+</h1>
+<p align="center"><b>Healthcare Data Analyst</b> · Turning Claims &amp; Clinical Data Into Action</p>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=1D9BF0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=SQL+%7C+Python+%7C+Tableau+%7C+Power+BI+%7C+Snowflake;Claims+%7C+Eligibility+%7C+Provider+%7C+EHR+Data+Analytics;HEDIS+%2F+CMS+Star+Ratings+%7C+Population+Health+%7C+HIPAA;Databricks+%7C+Spark+%7C+Kafka+%7C+dbt+%7C+RAG+Pipelines)](https://git.io/typing-svg)
@@ -347,8 +352,6 @@ strengths:
 `dbt` `Databricks` `Kafka` `Claude API` `LangChain` `RAG Pipelines`
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer&amp;animation=twinkling" width="100%"/>
 
 *"Turning claims and clinical data into insights that improve care."*
 
