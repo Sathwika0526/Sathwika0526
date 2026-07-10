@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sathwika%20Rupireddy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Healthcare%20Data%20Analyst%20%7C%20Turning%20Claims%20%26%20Clinical%20Data%20Into%20Action&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=1D9BF0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=SQL+%7C+Python+%7C+Tableau+%7C+Power+BI+%7C+Snowflake;Claims+%7C+Eligibility+%7C+Provider+%7C+EHR+Data+Analytics;HEDIS+%2F+CMS+Star+Ratings+%7C+Population+Health+%7C+HIPAA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=1D9BF0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=SQL+%7C+Python+%7C+Tableau+%7C+Power+BI+%7C+Snowflake;Claims+%7C+Eligibility+%7C+Provider+%7C+EHR+Data+Analytics;HEDIS+%2F+CMS+Star+Ratings+%7C+Population+Health+%7C+HIPAA;Databricks+%7C+Spark+%7C+Kafka+%7C+dbt+%7C+RAG+Pipelines)](https://git.io/typing-svg)
 
 <br/>
 
@@ -38,7 +38,10 @@ class SathwikaRupireddy:
         "HEDIS / CMS Star Ratings executive dashboards",
         "Population health & care management reporting",
         "Data quality, reconciliation & HIPAA-compliant pipelines",
-        "Value-based care outcome measurement"
+        "Value-based care outcome measurement",
+        "End-to-end data engineering: lakehouse pipelines, dbt/Snowflake models",
+        "LLM-powered data extraction with Claude API + Pydantic",
+        "RAG pipelines with LangChain + vector databases"
     ]
 
     def say_hello(self):
@@ -96,6 +99,23 @@ class SathwikaRupireddy:
 ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+
+### Big Data, Streaming & Orchestration
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### AI / ML / LLMOps
+![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 </div>
 
@@ -157,6 +177,76 @@ class SathwikaRupireddy:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Career Genie
+> **AI-powered job search co-pilot** — resume parsing, JD match analysis, skill gap detection. Runs 100% locally on Llama 3 via Ollama. Zero API cost.
+
+**How it works:**
+- FastAPI backend + Streamlit UI
+- LangChain orchestration + ChromaDB RAG
+- Llama 3 via Ollama (fully local)
+- Resume → JD → Gap analysis in seconds
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama%203-0467DF?style=flat-square&logo=meta&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 PDF → Structured JSON Pipeline
+> **LLM-powered document intelligence pipeline** — extracts unstructured PDF content, sends it to the Claude API, and returns schema-validated JSON via Pydantic.
+
+**How it works:**
+- Text extraction + intelligent chunking
+- Claude API for structured extraction
+- Pydantic v2 schema validation — zero malformed records
+- Optional CSV export + batch processing support
+
+![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+[View Repo →](https://github.com/Sathwika0526/pdf-to-structured-json)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Retail Sales Analytics Platform
+> **End-to-end lakehouse pipeline** — dbt + Snowflake dimensional models powering real-time KPI dashboards. 60% reduction in manual reporting effort.
+
+**Key result:**
+- Medallion Architecture (Bronze→Silver→Gold)
+- Automated KPI frameworks in dbt
+- Power BI Direct Query < 3 second response
+- Full data lineage + dbt tests
+
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Laptop Price Intelligence Pipeline
+> **Cloud analytics pipeline** — PostgreSQL → BigQuery. Pricing trends and competitive benchmarks across thousands of SKUs with Power BI dashboards.
+
+**Key result:**
+- Raw pricing data → dimensional warehouse
+- 5 brand-tier pricing gap analysis
+- Interactive Power BI market intelligence
+- Fully automated nightly refresh
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-bigquery&logoColor=white)
 
 </td>
 </tr>
@@ -229,7 +319,8 @@ target_roles:
   - Healthcare Data Analyst
   - Healthcare Analytics / Reporting Analyst
   - Population Health Analyst
-  - Claims & Quality Analytics Analyst
+  - Data Analyst / Data Engineer
+  - Analytics Engineer
 
 open_to:
   - Remote ✅
@@ -242,6 +333,8 @@ strengths:
   - HIPAA-compliant data quality & reconciliation frameworks
   - Population health & value-based care reporting
   - Cross-functional collaboration with clinical & quality stakeholders
+  - End-to-end data pipeline design (dbt, Snowflake, Power BI)
+  - LLM-powered data extraction & RAG pipelines (Claude API, LangChain)
 ```
 
 ---
@@ -251,6 +344,7 @@ strengths:
 ### 💬 Ask me about
 `SQL` `Python` `Tableau` `Power BI` `Snowflake` `HEDIS/CMS Measures`
 `Claims Analytics` `Population Health` `HIPAA Compliance` `EHR/EMR Data`
+`dbt` `Databricks` `Kafka` `Claude API` `LangChain` `RAG Pipelines`
 
 ---
 
