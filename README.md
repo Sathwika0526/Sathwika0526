@@ -30,7 +30,7 @@ class SathwikaRupireddy:
     role       = "Healthcare Data Analyst"
     company    = "Cigna Healthcare"
     location   = "St. Louis, MO 🇺🇸"
-    education  = "MS Data Analytics — Webster University (GPA in progress, exp. Dec 2025)"
+    education  = "MS Data Analytics — Webster University (GPA in progress, Dec 2025)"
     experience = "4+ years"
 
     focus_areas = [
@@ -163,6 +163,7 @@ class SathwikaRupireddy:
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Claims](https://img.shields.io/badge/Claims%20Analytics-0091AE?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 </td>
 <td width="50%" valign="top">
@@ -177,6 +178,7 @@ class SathwikaRupireddy:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 </td>
 </tr>
