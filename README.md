@@ -17,6 +17,7 @@
 <!-- SOCIAL LINKS -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwika-r-0ab205325)
 [![Email](https://img.shields.io/badge/Email-sathwikarupireddy513%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathwikarupireddy513@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sathwika0526.github.io-1D9BF0?style=for-the-badge&logo=github-pages&logoColor=white)](https://sathwika0526.github.io/Sathwika0526/)
 
 </div>
 
