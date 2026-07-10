@@ -1,12 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<h1 align="center">
-  <span style="background: linear-gradient(135deg, #f0a050, #c2528f); -webkit-background-clip: text;">
-    Sathwika Rupireddy
-  </span>
-</h1>
-<p align="center"><b>Healthcare Data Analyst</b> · Turning Claims &amp; Clinical Data Into Action</p>
+<img src="./assets/header-banner.svg" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=1D9BF0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=SQL+%7C+Python+%7C+Tableau+%7C+Power+BI+%7C+Snowflake;Claims+%7C+Eligibility+%7C+Provider+%7C+EHR+Data+Analytics;HEDIS+%2F+CMS+Star+Ratings+%7C+Population+Health+%7C+HIPAA;Databricks+%7C+Spark+%7C+Kafka+%7C+dbt+%7C+RAG+Pipelines)](https://git.io/typing-svg)
