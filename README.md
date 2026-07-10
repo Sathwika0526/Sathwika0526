@@ -2,6 +2,36 @@
 
 <!-- HEADER -->
 <img src="./assets/header-banner.svg" width="100%"/>
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f0a050"/>
+      <stop offset="50%" stop-color="#d9698f"/>
+      <stop offset="100%" stop-color="#1D9BF0"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="220" fill="url(#bgGrad)"/>
+
+  <!-- decorative wave shapes -->
+  <path d="M0,180 C250,220 350,140 600,170 C850,200 950,140 1200,175 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.08"/>
+  <path d="M0,195 C250,225 400,165 650,190 C900,215 1000,165 1200,195 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.12"/>
+
+  <!-- main text -->
+  <text x="600" y="105" font-family="'JetBrains Mono', 'Segoe UI', Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="1">
+    Sathwika Rupireddy
+  </text>
+
+  <!-- subtitle -->
+  <text x="600" y="150" font-family="'JetBrains Mono', 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="500" fill="#ffffff" fill-opacity="0.92" text-anchor="middle">
+    Healthcare Data Analyst · Turning Claims &amp; Clinical Data Into Action
+  </text>
+</svg>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=1D9BF0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=SQL+%7C+Python+%7C+Tableau+%7C+Power+BI+%7C+Snowflake;Claims+%7C+Eligibility+%7C+Provider+%7C+EHR+Data+Analytics;HEDIS+%2F+CMS+Star+Ratings+%7C+Population+Health+%7C+HIPAA;Databricks+%7C+Spark+%7C+Kafka+%7C+dbt+%7C+RAG+Pipelines)](https://git.io/typing-svg)
