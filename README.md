@@ -30,7 +30,7 @@ class SathwikaRupireddy:
     role       = "Healthcare Data Analyst"
     company    = "Cigna Healthcare"
     location   = "St. Louis, MO 🇺🇸"
-    education  = "MS Data Analytics — Webster University (GPA in progress, exp. Dec 2025)"
+    education  = "MS Data Analytics — Webster University (3.56, Dec 2025)"
     experience = "4+ years"
 
     focus_areas = [
